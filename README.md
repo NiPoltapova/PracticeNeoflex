@@ -1,6 +1,6 @@
 # PracticeNeoflex
-Production practice in Neoflex
-Web calculator project
+Production practice in Neoflex.
+Web calculator project.
 Screenshots from swagger:
 ![image](https://github.com/NiPoltapova/PracticeNeoflex/assets/120168189/f329e4f7-a7d6-47f4-882c-e563601ebf0a)
 ![image](https://github.com/NiPoltapova/PracticeNeoflex/assets/120168189/eddebedf-15ee-478c-9ad3-84377b052619)
